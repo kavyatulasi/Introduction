@@ -1,0 +1,29 @@
+Database -A database is a collection of data/information, organized together in such a manner so that they can accessed easily and successfully. 
+Database may be of many types such as Flat files, Relational Database, Distributed database etc.
+Database approach data/information are organized in forms of tables. 
+To access  data from database we use SQL (Stander Query language).
+It is data manipulation language used to manipulate data from the database. 
+Its basic operation are SELECT, INSERT, UPDATE, and DELETE.
+
+Tables - A database can have multiple tables in it.
+All the data is stored in the tables.
+A table has a set of fields in it. These fields makes the design or the structure of the database.
+
+Data Type - Each field can have only one kind of data. That is called the Data Type of that field.
+This can be a string, an integer, a date, etc.
+
+Row - The collection of a set of values for all fields in one table is together called a row. 
+
+primary Key - Primary key is a field that will uniquely identify each row in the table.
+
+Relations – Most of us know what a table is from using spreadsheet software. 
+It is a grid made up of rows and columns.In relational databases we often refer to these as “relations”.
+
+DDL(Data Definition Language)
+DDL  actually consists of the SQL commands that can be used to define the database schema.
+
+DQL(Data Query Language)
+DQL statements are used for performing queries on the data within schema objects. 
+
+DML(Data Manipulation Language): 
+The SQL commands that deals with the manipulation of data present in the database belong to DML
