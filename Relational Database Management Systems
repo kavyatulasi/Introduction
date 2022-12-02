@@ -1,0 +1,18 @@
+Relational DataBase -
+A relational database is a type of database that stores and provides access to data points that are related to one another.
+Relational databases are based on the relational model, an intuitive, straightforward way of representing data in tables.
+In a relational database, each row in the table is a record with a unique ID called the key. 
+The columns of the table hold attributes of the data, and each record usually has a value for each attribute,
+making it easy to establish the relationships among data points.
+
+Tables:rows-colums
+Tables can have hundreds, thousands, sometimes even millions of rows of data. These rows are often called records.
+Tables can also have many columns of data. Columns are labeled with a descriptive name  and have a specific data type.
+
+Row - 
+A row is a series of data placed out horizontally in a table. 
+It is a horizontal arrangement of the objects, words, numbers, and data. 
+In Row, data objects are arranged face-to-face with lying next to each other on the straight line.
+
+Column - 
+A column is a vertical series of cells in a spreadsheet, chart, table, or spreadsheet. It is an arrangement of figures, facts, words, etc.
